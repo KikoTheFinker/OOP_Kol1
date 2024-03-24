@@ -1,1 +1,1 @@
-# OOP_Kol1
+# OOP_Kol1_Exercises
